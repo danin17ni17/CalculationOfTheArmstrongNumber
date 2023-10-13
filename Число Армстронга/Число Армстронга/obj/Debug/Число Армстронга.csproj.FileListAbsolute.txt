@@ -1,0 +1,6 @@
+c:\users\даниил\documents\visual studio 2012\Projects\Число Армстронга\Число Армстронга\bin\Debug\Число Армстронга.exe.config
+c:\users\даниил\documents\visual studio 2012\Projects\Число Армстронга\Число Армстронга\bin\Debug\Число Армстронга.exe
+c:\users\даниил\documents\visual studio 2012\Projects\Число Армстронга\Число Армстронга\bin\Debug\Число Армстронга.pdb
+c:\users\даниил\documents\visual studio 2012\Projects\Число Армстронга\Число Армстронга\obj\Debug\Число Армстронга.exe
+c:\users\даниил\documents\visual studio 2012\Projects\Число Армстронга\Число Армстронга\obj\Debug\Число Армстронга.pdb
+C:\Users\Даниил\Documents\Visual Studio 2012\Projects\Число Армстронга\Число Армстронга\obj\Debug\Число Армстронга.csprojResolveAssemblyReference.cache
